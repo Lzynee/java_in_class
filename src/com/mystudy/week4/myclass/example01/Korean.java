@@ -1,4 +1,4 @@
-package com.mystudy.myclass.example01;
+package com.mystudy.week4.myclass.example01;
 
 public class Korean {
     // 필드 선언

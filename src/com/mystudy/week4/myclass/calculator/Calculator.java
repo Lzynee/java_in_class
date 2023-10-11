@@ -1,4 +1,4 @@
-package com.mystudy.myclass.example02;
+package com.mystudy.week4.myclass.calculator;
 
 public class Calculator {
     void powerOn() {
@@ -15,5 +15,13 @@ public class Calculator {
 
     double divide(int x, int y) {
         return (double) x / (double) y;
+    }
+
+    int minus(int x, int y) {
+        return x - y;
+    }
+
+    int multiply(int x, int y) {
+        return x * y;
     }
 }  // class

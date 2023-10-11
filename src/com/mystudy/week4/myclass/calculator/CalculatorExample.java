@@ -5,13 +5,13 @@
  * 결과를 출력한다.
 * */
 
-package com.mystudy.myclass.calculator;
+package com.mystudy.week4.myclass.calculator;
 
 import java.util.Scanner;
 
 public class CalculatorExample {
     public static void main(String[] args) {
-        com.mystudy.myclass.calculator.Calculator myCalc = new Calculator();
+        com.mystudy.week4.myclass.calculator.Calculator myCalc = new Calculator();
 
         myCalc.powerOn();
         System.out.println();

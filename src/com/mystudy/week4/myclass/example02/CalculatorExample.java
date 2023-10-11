@@ -1,4 +1,4 @@
-package com.mystudy.myclass.example02;
+package com.mystudy.week4.myclass.example02;
 
 public class CalculatorExample {
     public static void main(String[] args) {
